@@ -4,5 +4,6 @@ import random
 import os
 
 def function():
+	print "Salut"
 	return true
 
