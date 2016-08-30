@@ -7,3 +7,6 @@ def function():
 	print "Salut"
 	return true
 
+def function_options():
+	return false
+
