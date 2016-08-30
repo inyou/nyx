@@ -1,0 +1,17 @@
+(lp0
+(lp1
+S'Quel est ton age?'
+p2
+aS'37 ans'
+p3
+aa(lp4
+S'Quel est ton nom?'
+p5
+aS'Nyx'
+p6
+aa(lp7
+S'O\xc3\xb9 habites-tu?'
+p8
+aS'Nice'
+p9
+aa.
